@@ -1,6 +1,6 @@
 # Quiz 1 Information
 
-Quiz 1 covers **Linear Classifiers and Gradient Descent (Lesson 1)** and **Neural Networks (Lesson 2)** and is due **January 22nd, 08:00 am ET (NO GRACE PERIOD)**. The quiz is *closed notes/book/internet* but you can use scratch paper and the Desmos scientific calculator (we will use Honorlock for proctoring which also provides its own scientific calculator).
+Quiz 1 covers **Linear Classifiers and Gradient Descent (Lesson 1)** and **Neural Networks (Lesson 2)** and is due **January 22nd, 08:00 am ET (NO GRACE PERIOD)**. The quiz is *closed notes/book/internet* but you can use scratch paper and the [Desmos](https://www.desmos.com/scientific) scientific calculator (we will use Honorlock for proctoring which also provides its own scientific calculator).
 
 ## Some things to remember:
 
