@@ -1,6 +1,6 @@
 # Quiz 2 Information
 
-Quiz 2 will cover **Optimization of Deep Neural Networks (Lesson 3)** and **Convolution and Pooling Layers (Lesson 5)** and it will be due **February 5th 8:00 AM ET (NO GRACE PERIOD)**. The quiz is **closed notes/book/internet** but you can use scratch paper and the desmos scientific calculator (we will use Honorlock for proctoring, which provides its own scientific calculator). You **CANNOT** use your own physical calculator.
+Quiz 2 will cover **Optimization of Deep Neural Networks (Lesson 3)** and **Convolution and Pooling Layers (Lesson 5)** and it will be due **February 5th 8:00 AM ET (NO GRACE PERIOD)**. The quiz is **closed notes/book/internet** but you can use scratch paper and the [desmos](https://www.desmos.com/scientific) scientific calculator (we will use Honorlock for proctoring, which provides its own scientific calculator). You **CANNOT** use your own physical calculator.
 
 **Please do not discuss** the quiz contents or their solutions with other students.
 
