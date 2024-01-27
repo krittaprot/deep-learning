@@ -27,5 +27,5 @@ The quiz will consist of approximately 20 questions, split between **80% (concep
 
 We’ve created a problem set for a flavor of the types of computation questions you should expect:
 
-- **File**: Quiz2_prep.pdf
-- **File**: Quiz2_prep_solutions.pdf
+- **File**: [Quiz2_prep.pdf](https://static.us.edusercontent.com/files/tULVMJgQFb8LW3nCPV8l1kn8)
+- **File**: [Quiz2_prep_solutions.pdf](https://static.us.edusercontent.com/files/eBY1Jwrh9yBvmBtiK2dcGO1S)
